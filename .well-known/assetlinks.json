@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.shadowchat.app",
+      "sha256_cert_fingerprints": [
+        "57:8D:70:02:F0:0B:78:42:CA:01:16:BC:BA:FE:96:7B:14:AB:7F:BA:03:BD:6A:BE:4F:BA:CC:AB:28:F4:B0:52"
+      ]
+    }
+  }
+]
